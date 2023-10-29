@@ -1,1 +1,2 @@
-pytest==7.4.0
+def calcular_promedios(verbales: str, numericas: str) -> int:
+    pass
